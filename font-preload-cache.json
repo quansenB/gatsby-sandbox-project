@@ -1,10 +1,31 @@
 {
-    "timestamp": 1607962764940,
+    "timestamp": 1607968443651,
     "hash": "7ea4f21ad6f8a81ec7cf1ff072da528f",
     "assets": {
         "/": {
             "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
+            "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
+            "/static/andika-new-basic-latin-400-normal-8562205f8140de27ba5e0039d552eb06.woff2": true
+        },
+        "/dev-404-page/": {
+            "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
             "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true
+        },
+        "/404/": {
+            "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
+            "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true
+        },
+        "/page-2/": {
+            "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
+            "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true
+        },
+        "/using-typescript/": {
+            "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
+            "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true
+        },
+        "/404.html": {
+            "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
+            "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true
         }
     }
 }
