@@ -1,0 +1,10 @@
+{
+    "timestamp": 1607961312064,
+    "hash": "7ea4f21ad6f8a81ec7cf1ff072da528f",
+    "assets": {
+        "/": {
+            "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
+            "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true
+        }
+    }
+}

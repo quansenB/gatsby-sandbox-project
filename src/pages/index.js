@@ -5,7 +5,9 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
-import "fontsource-rubik/latin.css"
+import "fontsource-rubik/latin-400-normal.css"
+import "fontsource-rubik/latin-600-normal.css"
+
 
 const IndexPage = () => (
   <Layout>
