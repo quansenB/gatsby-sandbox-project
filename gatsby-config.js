@@ -35,7 +35,7 @@ module.exports = {
       options: {
         headers: {
           "/": [
-            "Link: </static/my-logo.png>; rel=preload; as=image",
+            "Link: </src/images/gatsby-icon.png>; rel=preload; as=image",
           ],
         }, // option to add more headers. `Link` headers are transformed by the below criteria
         allPageHeaders: [], // option to add headers for all pages. `Link` headers are transformed by the below criteria
