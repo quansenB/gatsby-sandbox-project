@@ -1,35 +1,15 @@
 {
-    "timestamp": 1608022772738,
+    "timestamp": 1608025735687,
     "hash": "16989cee614a1170a234477346bf6dcb",
     "assets": {
+        "/dev-404-page/": {
+            "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
+            "/static/andika-new-basic-latin-400-normal-8562205f8140de27ba5e0039d552eb06.woff2": true,
+            "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true
+        },
         "/": {
             "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
             "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
-            "/static/andika-new-basic-latin-400-normal-8562205f8140de27ba5e0039d552eb06.woff2": true
-        },
-        "/dev-404-page/": {
-            "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
-            "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
-            "/static/andika-new-basic-latin-400-normal-8562205f8140de27ba5e0039d552eb06.woff2": true
-        },
-        "/404/": {
-            "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
-            "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
-            "/static/andika-new-basic-latin-400-normal-8562205f8140de27ba5e0039d552eb06.woff2": true
-        },
-        "/page-2/": {
-            "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
-            "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
-            "/static/andika-new-basic-latin-400-normal-8562205f8140de27ba5e0039d552eb06.woff2": true
-        },
-        "/using-typescript/": {
-            "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
-            "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
-            "/static/andika-new-basic-latin-400-normal-8562205f8140de27ba5e0039d552eb06.woff2": true
-        },
-        "/404.html": {
-            "/static/rubik-latin-600-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
-            "/static/rubik-latin-400-normal-c60ea76cc216df040231d5351a254c11.woff2": true,
             "/static/andika-new-basic-latin-400-normal-8562205f8140de27ba5e0039d552eb06.woff2": true
         }
     }
