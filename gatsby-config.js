@@ -35,7 +35,7 @@ module.exports = {
       options: {
         headers: {
           "/": [
-            "Link: </src/images/gatsby-icon.png>; rel=preload; as=image",
+            "Link: </static/andika-new-basic-latin-400-normal-8562205f8140de27ba5e0039d552eb06.woff2>; rel=preload; as=font",
           ],
         }, // option to add more headers. `Link` headers are transformed by the below criteria
         allPageHeaders: [], // option to add headers for all pages. `Link` headers are transformed by the below criteria
